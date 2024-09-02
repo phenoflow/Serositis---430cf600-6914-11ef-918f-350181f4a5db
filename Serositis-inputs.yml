@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/serositis-pericarditis---undefined.py
+inputModule3:
+  class: File
+  path: python/serositis-effusion---undefined.py
+inputModule4:
+  class: File
+  path: python/serositis-pleuritis---undefined.py
+inputModule5:
+  class: File
+  path: python/pericardial-serositis---undefined.py
+inputModule6:
+  class: File
+  path: python/pleural-serositis---undefined.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
